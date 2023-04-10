@@ -1,7 +1,7 @@
 <h1 align="center">HOLA! Soy Javielis rondon 👩🏿‍💻 </h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🔭 Quieres saber de mi [https://www.canva.com /design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view]
+- 🔭 Quieres saber de mi https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view
 
 - 🌱Estoy aprendiendo **Inglés**
 - 📫Me puedes contactar **javielisrondon@gmail.com* *
