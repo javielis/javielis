@@ -1,12 +1,10 @@
-<h1 align="center">Confía en el proceso Javielis rondon</h1>
-<h3 align="center">Amor por la tegnologia</h3>
+<h1 align="center">HOLA! Soy Javielis rondon 👩🏿‍💻 </h1>
+<h3 align="center">Front-End Developer</h3>
 
-- 🔭 Quieres saber de mi [file:///C:/Users /OIM/Downloads/Javielis%20(5).pdf](file:///C:/Users/OIM/Downloads/Javielis%20(5).pdf)
+- 🔭 Quieres saber de mi [https://www.canva.com /design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view]
 
 - 🌱Estoy aprendiendo **Inglés**
-
-- 📫Me puedes contactar a **javielisrondon@gmail.com**
-
+- 📫Me puedes contactar **javielisrondon@gmail.com* *
 - ⚡ Algo divertido **Me gusta bailar salsa antigua**
 
 <h3 align="left">Conéctate conmigo:</h3>
