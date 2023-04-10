@@ -1,5 +1,5 @@
-<h1 align="center">Confia en el proceso Javielis rondon</h1>
-<h3 align="center">Amor por la tegnologia</h3>
+<h1 align="center">Hola! soy Javielis rondon</h1>
+<h3 align="center">Front end developer</h3>
 
 - 🔭 Quieres saber de mi [https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view](https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view)
 
