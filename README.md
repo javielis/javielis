@@ -5,7 +5,7 @@
 
 - 🌱Estoy aprendiendo **Inglés**
 - 📫Me puedes contactar **javielisrondon@gmail.com* *
-- ⚡ Algo divertido **Me gusta bailar salsa antigua**
+- ⚡ Algo divertido **Me encanta la salsa antigua**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
