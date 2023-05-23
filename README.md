@@ -1,11 +1,11 @@
-<h1 align="center">Javielis rondon</h1>
-<h3 align="center">Amor por la tecnologia </h3>
+<h1 align="center">Desarrollador front-end Javielis rondon</h1>
+<h3 align="center">Amor por la tecnología</h3>
 
-- 🔭 Quieres saber de mi [https://www.canva.com /design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view](https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view)
+- 🔭 Quieres saber de mi [https://www.canva.com/ design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view](https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view)
 
 - 🌱Estoy aprendiendo **React**
 
-- 📫Me puedes contactar **javielisrondon@gmail.com* *
+- 📫Me puedes contactar **javielisrondon@gmail.com**
 
 - ⚡ Algo divertido **Me gusta bailar salsa antigua**
 
@@ -24,4 +24,8 @@ align
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=javielis&show_icons=true&locale=en" alt="javielis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javielis&" alt="javielis" /></p>
 
