@@ -2,9 +2,9 @@
 <h3 align="center">Confia en el proceso🌱</h3>
 
 - 🔭 Quieres saber de mi [https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view](https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view)
-- 🌱Estoy aprendiendo **Ingles**
+- 🌱Estoy aprendiendo **React**
 - 📫Me puedes contactar **javielisrondon@gmail.com**
-- ⚡ Algo divertido **Me gusta bailar salsa antigua**
+- ⚡ Algo que me relaja **Escuchar musica**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/javielis-rond%c3%b3n-0a51131bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javielis-rond%c3%b3n-0a51131bb/" height="30" width="40" /></a>
