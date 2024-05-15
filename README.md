@@ -2,7 +2,7 @@
 <h3 align="center">Confia en el proceso🌱</h3>
 
 - 🔭 Quieres saber de mi [https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view](https://www.canva.com/design/DAFbN6skrJI/wGOgqXyct3u7jXalaF4hlQ/view)
-- 🌱Estoy aprendiendo **React**
+- 🌱Estoy aprendiendo **React, Java**
 - 📫Me puedes contactar **javielisrondon@gmail.com**
 - ⚡ Algo que me relaja **Escuchar musica**
 <h3 align="left">Connect with me:</h3>
